@@ -1,0 +1,34 @@
+step 1
+
+signin 
+forgot password
+dashboard
+---> with routing
+
+
+step 2 
+(authguard)
+---> role based authentication
+
+step 3
+
+basic forms
+(validation)
+(blogic)
+
+
+step 4 
+respective screeen call that screen (service)
+how to create interceptor in angular
+
+
+step 5
+
+components 
+like cinfigurable 
+reusuabliity
+entire page is come under layout(head4r,sidebar,navbar)
+
+step 6
+
+API 
