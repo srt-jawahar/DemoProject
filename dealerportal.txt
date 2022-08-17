@@ -1,0 +1,9 @@
+vpn connection 
+ng serve (in cmd)
+localhost/app-name
+
+Business logic should be in components
+
+Auth-page --> path ''
+
+Observable
